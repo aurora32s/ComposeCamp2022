@@ -30,6 +30,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import com.example.compose.rally.ui.components.RallyTabRow
 import com.example.compose.rally.ui.theme.RallyTheme
+import kotlin.math.sin
+import kotlin.math.sinh
 
 /**
  * This Activity recreates part of the Rally Material Study from
